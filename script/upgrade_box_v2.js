@@ -1,5 +1,5 @@
 const { ethers, upgrades } = require('hardhat');
-const PROXY_ADDR = "0x57412973455f86604B2ed50FCABB415bbC9F9F18";
+const PROXY_ADDR = "YOUR PROXY CONTRACT ADDRESS";
 
 async function main () {
   
