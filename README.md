@@ -51,7 +51,7 @@ Ensure you have the following installed:
    Verify the proxy contract on Etherscan with:
 
    ```bash
-   npx hardhat verify --network sepolia <YOUR_PROXY_CONTRACT_ADDRESS>
+   npx hardhat verify --network sepolia <YOUR_CONTRACT_ADDRESS>
    ```
 
 3. **Upgrade to the New Version**
